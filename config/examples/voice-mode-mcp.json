@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "voice-mode": {
+      "command": "uvx",
+      "args": ["voice-mode"],
+      "env": {
+        "WHISPER_MODEL": "base",
+        "TTS_VOICE": "en-us-female-1"
+      }
+    }
+  }
+}
